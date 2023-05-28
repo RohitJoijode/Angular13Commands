@@ -1,0 +1,20 @@
+ng g c Adventure-details (Create Class Main Folders)
+ng g s shared/AdventureWork (Create Main Folders)
+ng serve
+ng build
+npm i --force
+ng s --port 4300
+ng new new-app
+npm install -g @angular/cli
+Get-ExecutionPolicy -list
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+ng serve --open
+ng --help
+npx kill-port 4200
+D:\AnuglarWithCrudAPI\appfile> cd src
+D:\AnuglarWithCrudAPI\appfile\src\app\shared> ng g s login.ts
+
+ng generate component letters
+ng generate service letters
+ng generate interface letters
+ng generate class letters
