@@ -1,17 +1,18 @@
 ng g c Adventure-details (Create Components in Main Folders)
 ng g s shared/AdventureWork (Create in Main Folders)
-ng serve
-ng build
-npm i --force
-ng s --port 4300
-ng new new-app
-npm install -g @angular/cli
-Get-ExecutionPolicy -list
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-ng serve --open
+ng serve (Run Angular Application)
+ng build (Build Angular Application for Deployment)
+npm i --force (for Node Module Install)
+ng s --port 4300 (for Run Angular Application on particular port)
+ng new new-app (for creating Angular Project)
+npm install -g @angular/cli (for @angular/cli Installing)
+Get-ExecutionPolicy -list (for Permision For Execution Command on PowerShell)
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser (for Permision For Execution Command on PowerShell)
+ng serve --open 
 ng --help
-npx kill-port 4200
-D:\AnuglarWithCrudAPI\appfile> cd src
+npx kill-port 4200 (for killing Application Port)
+D:\AnuglarWithCrudAPI\appfile> cd src (go to Folder inside)
+D:\AnuglarWithCrudAPI> cd.. (Back to Folder inside)
 D:\AnuglarWithCrudAPI\appfile\src\app\shared> ng g s login.ts
 
 ng generate component letters
