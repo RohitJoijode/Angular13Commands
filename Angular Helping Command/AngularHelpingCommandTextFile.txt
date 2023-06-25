@@ -1,4 +1,4 @@
-ng g c Adventure-details (Create Class Main Folders)
+ng g c Adventure-details (Create Components Main Folders)
 ng g s shared/AdventureWork (Create Main Folders)
 ng serve
 ng build
