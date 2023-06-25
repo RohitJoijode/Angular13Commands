@@ -1,5 +1,5 @@
 ng g c Adventure-details (Create Components in Main Folders)
-ng g s shared/AdventureWork (Create Main Folders)
+ng g s shared/AdventureWork (Create in Main Folders)
 ng serve
 ng build
 npm i --force
