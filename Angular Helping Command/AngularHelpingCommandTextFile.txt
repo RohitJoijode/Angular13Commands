@@ -19,3 +19,7 @@ ng generate component letters
 ng generate service letters
 ng generate interface letters
 ng generate class letters
+
+Angular 16 Dashboard Website
+
+https://therichpost.com/create-your-own-admin-dashboard-template-with-angular-15-html-css/
