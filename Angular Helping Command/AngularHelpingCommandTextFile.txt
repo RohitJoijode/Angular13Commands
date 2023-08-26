@@ -27,3 +27,4 @@ https://eforms.com/invoice-template/
 ------Used Command On 26-08-2023
 npm install bootstrap --save
 npm install @ng-bootstrap/ng-bootstrap
+ng add @ng-bootstrap/ng-bootstrap
