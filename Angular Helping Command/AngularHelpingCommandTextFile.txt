@@ -20,7 +20,7 @@ ng generate service letters
 ng generate interface letters
 ng generate class letters
 
-npm install @auth0/angular-jwt
+npm install @auth0/angular-jwt ------------------------USE for Decript JWT Token in angular 
 
 Angular 16 Dashboard Website
 https://therichpost.com/create-your-own-admin-dashboard-template-with-angular-15-html-css/
