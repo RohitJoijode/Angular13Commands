@@ -34,5 +34,7 @@ ng add @ng-bootstrap/ng-bootstrap
 
 ---------------Create New Angular Project In My Local Window ------------------------------------------
 node.js (version 18.16.0)  
+Angular Version : 17
+https://therichpost.com/how-to-build-responsive-admin-dashboard-with-angular-16/
 
 
