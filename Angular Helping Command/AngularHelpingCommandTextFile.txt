@@ -4,7 +4,7 @@ ng serve (Run Angular Application)
 ng build (Build Angular Application for Deployment)
 npm i --force (for Node Module Install)
 ng s --port 4300 (for Run Angular Application on particular port)
-ng new new-app (for creating Angular Project)
+ng new new-app (for creating Angular Project) (select file path and run in cmd window)
 npm install -g @angular/cli (for @angular/cli Installing)
 Get-ExecutionPolicy -list (for Permision For Execution Command on PowerShell)
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser (for Permision For Execution Command on PowerShell)
@@ -30,3 +30,9 @@ https://eforms.com/invoice-template/
 npm install bootstrap --save
 npm install @ng-bootstrap/ng-bootstrap
 ng add @ng-bootstrap/ng-bootstrap
+
+
+---------------Create New Angular Project In My Local Window ------------------------------------------
+node.js (version 18.16.0)  
+
+
