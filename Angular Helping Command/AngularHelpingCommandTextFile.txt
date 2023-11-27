@@ -37,4 +37,9 @@ node.js (version 18.16.0)
 Angular Version : 17
 https://therichpost.com/how-to-build-responsive-admin-dashboard-with-angular-16/
 
+---------------Angular 16 Deployment Commnad ------------------------------------------
+ng build
+dist folder created on project 
+
+
 
