@@ -1,5 +1,6 @@
 ng g c Adventure-details (Create Components in Main Folders)
 ng g s shared/AdventureWork (Create in Main Folders)
+npm install ng-angular-popup — force (for angular popup)
 ng serve (Run Angular Application)
 ng build (Build Angular Application for Deployment)
 npm i --force (for Node Module Install)
