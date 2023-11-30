@@ -45,6 +45,12 @@ dist folder created on project
 <!---------------- Source Url 29/11/2023---------------->
 https://medium.com/@yshashi30/how-to-use-toast-messages-ng-angular-popup-in-angular-project-70d4160400de
 
+<-----------Use Command ------------------>
+npm i @angular/animations ngx-toastr
+npm i sweetalert2 (for Sweetalert )
+
+
+
 
 
 
