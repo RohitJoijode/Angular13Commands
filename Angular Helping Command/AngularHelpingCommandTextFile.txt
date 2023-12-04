@@ -67,6 +67,9 @@ npm i @types/bootstrap
            ]
 
 
+npm i bootstrap-icons --save
+
+
 
 
 
