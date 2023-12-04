@@ -51,6 +51,12 @@ https://medium.com/@yshashi30/how-to-use-toast-messages-ng-angular-popup-in-angu
 npm i @angular/animations ngx-toastr
 npm i sweetalert2 (for Sweetalert )
 
+npm install bootstrap 
+
+npm i @popperjs/core
+
+npm i @types/bootstrap 
+
 
 
 
