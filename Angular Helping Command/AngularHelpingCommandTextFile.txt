@@ -86,6 +86,8 @@ npm install datatables.net-buttons-dt --save
 npm install @types/datatables.net-buttons --save-dev 
 npm install jszip --save
 
+https://apexcharts.com/docs/angular-charts/
+
 
 
 
