@@ -89,6 +89,7 @@ npm install jszip --save
 https://apexcharts.com/docs/angular-charts/
 
 https://morioh.com/a/7cf987d51abb/dynamic-data-table-component-with-angular-material
+https://stackoverflow.com/questions/67331162/dynamic-data-table-component-using-angular-not-displaying-data
 
 
 
