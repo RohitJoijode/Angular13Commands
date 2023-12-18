@@ -94,6 +94,9 @@ https://stackoverflow.com/questions/67331162/dynamic-data-table-component-using-
 npm i @ng-bootstrap/ng-bootstrap --legacy-peer-deps (Added On 18/12/2023)
 
 
+npm i mdb-angular-ui-kit
+
+
 
 
 
