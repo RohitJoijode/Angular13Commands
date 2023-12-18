@@ -96,6 +96,8 @@ npm i @ng-bootstrap/ng-bootstrap --legacy-peer-deps (Added On 18/12/2023)
 
 npm i mdb-angular-ui-kit (https://mdbootstrap.com/docs/angular/components/modal/)
 
+boostrap modal with cdn link(https://getbootstrap.com/docs/5.0/components/modal/)
+
 
 
 
