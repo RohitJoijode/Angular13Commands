@@ -101,6 +101,8 @@ boostrap modal with cdn link(https://getbootstrap.com/docs/5.0/components/modal/
 npm i font-awesome --force (Added On 19/12/2023)
 npm i bootstrap-icons --force (Added On 19/12/2023)
 
+https://github.com/bezkoder/angular-16-pagination-example
+
 
 
 
