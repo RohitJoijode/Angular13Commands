@@ -102,6 +102,7 @@ npm i font-awesome --force (Added On 19/12/2023)
 npm i bootstrap-icons --force (Added On 19/12/2023)
 
 https://github.com/bezkoder/angular-16-pagination-example
+https://examples.bootstrap-table.com/
 
 
 
