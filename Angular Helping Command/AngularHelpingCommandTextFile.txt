@@ -104,6 +104,7 @@ npm i bootstrap-icons --force (Added On 19/12/2023)
 https://github.com/bezkoder/angular-16-pagination-example
 https://examples.bootstrap-table.com/
 
+https://www.codeproject.com/Articles/5290817/Build-Angular-data-table-with-CRUD-Operations-and
 
 
 
