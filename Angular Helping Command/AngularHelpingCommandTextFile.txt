@@ -106,6 +106,8 @@ https://examples.bootstrap-table.com/
 
 https://www.codeproject.com/Articles/5290817/Build-Angular-data-table-with-CRUD-Operations-and
 
+ng add @angular/material
+
 
 
 
