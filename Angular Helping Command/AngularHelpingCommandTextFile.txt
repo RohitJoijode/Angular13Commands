@@ -111,6 +111,8 @@ ng add @angular/material
 
 npm install @angular/material @angular/cdk @angular/animations --force
 
+npm i @angular/material@16.2.12 --force
+
 
 
 
