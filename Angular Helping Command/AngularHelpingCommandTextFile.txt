@@ -109,6 +109,9 @@ https://www.codeproject.com/Articles/5290817/Build-Angular-data-table-with-CRUD-
 ng add @angular/material
 
 
+npm install @angular/material @angular/cdk @angular/animations --force
+
+
 
 
 
