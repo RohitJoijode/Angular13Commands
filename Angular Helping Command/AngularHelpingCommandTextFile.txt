@@ -119,6 +119,16 @@ https://primeng.org/dataview
 https://www.wikihow.com/Change-Directories-in-Command-Prompt
 
 
+--- for below issue
+D:\@Rohit@\Angular16FinalProject-main\PWMFrontEnd>npm install -g @angular/cli
+npm ERR! code SELF_SIGNED_CERT_IN_CHAIN
+npm ERR! errno SELF_SIGNED_CERT_IN_CHAIN
+npm ERR! request to https://registry.npmjs.org/@angular%2fcli failed, reason: self-signed certificate in certificate chain
+
+Solution
+npm config set strict-ssl false
+---
+
 
 
 
