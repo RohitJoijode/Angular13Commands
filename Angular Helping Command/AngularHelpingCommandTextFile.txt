@@ -131,10 +131,14 @@ npm config set strict-ssl false
 
 ---------------------------------BEGIN MO DASHBOARD CMD ------
 
-npm i plotly.js --force (this command Succefully not run)
 
-npm install chart.js --force (this command Succefully run)
+------BEGIN GRAPH  COMMONAD 
+npm i plotly.js --force (THIS COMMAND USED BUT NOT SUCCEFULLY RUN)
 
+npm install chart.js --force (THIS COMMAND USED)
+
+npm i --save plotly.js-dist-min --force (THIS COMMAND USED)
+------END GRAPH  COMMONAD 
 
 
 ---------------------------------BEGIN MO DASHBOARD CMD ------
