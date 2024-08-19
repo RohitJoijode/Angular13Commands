@@ -129,6 +129,16 @@ Solution
 npm config set strict-ssl false
 ---
 
+---------------------------------BEGIN MO DASHBOARD CMD ------
+
+npm i plotly.js --force (this command Succefully not run)
+
+npm install chart.js --force (this command Succefully run)
+
+
+
+---------------------------------BEGIN MO DASHBOARD CMD ------
+
 
 
 
