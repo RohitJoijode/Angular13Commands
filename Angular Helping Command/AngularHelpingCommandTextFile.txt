@@ -140,8 +140,13 @@ npm install chart.js --force (THIS COMMAND USED)
 npm i --save plotly.js-dist-min --force (THIS COMMAND USED)
 ------END GRAPH  COMMONAD 
 
+---30/08/2024
+npm install ngx-slick-carousel
 
 ---------------------------------BEGIN MO DASHBOARD CMD ------
+
+
+
 
 
 
