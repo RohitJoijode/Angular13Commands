@@ -146,6 +146,7 @@ $ npm install jquery --force
 $ npm install slick-carousel --force
 $ npm install ngx-slick-carousel --force
 npm install chart.js ng2-charts --force
+npm install ng2-charts --force
 
 npm install @types/jquery --force
 
