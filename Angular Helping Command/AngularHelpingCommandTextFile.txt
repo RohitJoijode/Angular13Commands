@@ -146,6 +146,8 @@ $ npm install jquery --force
 $ npm install slick-carousel --force
 $ npm install ngx-slick-carousel --force
 
+npm install @types/jquery
+
 ---------------------------------BEGIN MO DASHBOARD CMD ------
 
 
