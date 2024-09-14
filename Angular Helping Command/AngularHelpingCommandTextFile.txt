@@ -153,6 +153,7 @@ npm install @types/jquery --force
 --14/09/2024
 npm install @angular/material
 npm install date-fns
+ng add @angular/material
 
 ---------------------------------BEGIN MO DASHBOARD CMD ------
 
