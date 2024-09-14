@@ -150,6 +150,10 @@ npm install ng2-charts --force
 ng serve --proxy-config proxy.conf.json
 npm install @types/jquery --force
 
+--14/09/2024
+npm install @angular/material
+npm install date-fns
+
 ---------------------------------BEGIN MO DASHBOARD CMD ------
 
 
